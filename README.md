@@ -1,6 +1,6 @@
 # USBView
 USBView Example for VisualFBEditor
 
-![image](https://github.com/user-attachments/assets/b39f5a6a-c602-4327-9b0e-737390b0c179)
+![image](https://github.com/user-attachments/assets/94bdc218-d0e3-45f1-806d-7cd8f4d1975b)
 
-![image](https://github.com/user-attachments/assets/559a8789-53f9-415b-918b-397abd3a4746)
+![image](https://github.com/user-attachments/assets/8455c7d6-66b8-4ade-b99b-94f030bbb06d)
